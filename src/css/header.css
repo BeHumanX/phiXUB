@@ -4,6 +4,7 @@
     align-items: center;
     border-bottom: 1px solid #999;
     padding: 15px 20px;
+    color: #929DC2;
     font-family: "Monofonto" ;
 }
 #id{
@@ -16,6 +17,7 @@
     vertical-align: top;
     margin:6px 0 6px 10px;
     font-weight: 700;
+    color: #929DC2;
     font-size: 20px;
     line-height: 1;
 }
@@ -26,5 +28,5 @@
 
 .header .welcome{
     margin-right: 10;
-    color: #3a3a3a;
+    color: #929DC2;
 }
